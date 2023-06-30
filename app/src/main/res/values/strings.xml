@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ayush</string>
+    <string name="Splash_Text">Ayush</string>
+    <string name="txtedt1">Email id</string>
+    <string name="txtedt2">Password</string>
+    <string name="btntxt">Login</string>
+</resources>
