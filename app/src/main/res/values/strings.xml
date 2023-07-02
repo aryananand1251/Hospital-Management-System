@@ -3,5 +3,13 @@
     <string name="Splash_Text">Ayush</string>
     <string name="txtedt1">Email id</string>
     <string name="txtedt2">Password</string>
+    <string name="txtedt3">Confirm Password</string>
     <string name="btntxt">Login</string>
+    <string name="txtv">Sign In</string>
+    <string name="txtv2">Enter Your Detail</string>
+    <string name="txtv3">Forgot Password</string>
+    <string name="txtv4">or</string>
+    <string name="txtv5">Sign in via Google</string>
+    <string name="btntxt2">Signup</string>
+
 </resources>
